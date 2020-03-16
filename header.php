@@ -9,10 +9,6 @@
 		<link rel="stylesheet" href="<?php bloginfo(template_directory); ?>/css/style.css">
 	</head>
 	<body>
-		<link rel="icon" href="favicon.png" type="image/gif" sizes="16x16">
-
-
-	
 		<div id="header">
 			<h1><a href="#">Lorem Dental</a></h1>
 		</div><!-- #header --> 
