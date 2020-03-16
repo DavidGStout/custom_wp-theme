@@ -24,17 +24,17 @@
 					</ul>
 				</div><!-- .widget --> 
 
-				<div class="widget">
+			<!-- 	<div class="widget">
 					<a href="#">
 						<img src="images/ad-submit-your-own.png" alt="Filler Text>
-					</a>
+					</a> -->
 				</div><!-- .widget --> 
 
-				<div class="widget">
+<!-- 				<div class="widget">
 					<a href="#">
 						<img src="images/ad-tshirts.png" alt="Filler Text">
 					</a>
-				</div><!-- .widget --> 
+				</div> --><!-- .widget --> 
 
 
 			</div><!-- #sidebar -->

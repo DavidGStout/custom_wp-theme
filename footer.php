@@ -5,13 +5,13 @@
 			<div class="clear"></div>
 			<div id="footer">
 
-				<a href="#">
-					<img src="images/social-icon-twitter.png" alt="Twitter">
+<!-- 				<a href="https://github.com/davidgstout">
+					<img src="github.png" alt="Github">
 				</a>
-
-				<a href="#">
+ -->
+<!-- 				<a href="#">
 					<img src="images/social-icon-facebook.png" alt="Facebook">
-				</a>
+				</a> -->
 				
 			</div><!-- #footer -->
 
